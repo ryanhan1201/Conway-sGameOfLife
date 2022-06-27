@@ -1,0 +1,5 @@
+1. A cell can only have one of two statuses: Dead or Alive
+2. Any alive cell with fewer than 2 live neighbours dies
+3. Any alive cell with 2 or 3 live neighbours live on to the next generation
+4. Any alive cell with more than 3 live neighbours dies
+5. Any dead cell with exactly 3 live neighbours becomes an alive cell
